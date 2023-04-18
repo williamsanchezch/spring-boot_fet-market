@@ -1,4 +1,4 @@
-package fet_market;
+package fet_market.web.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
